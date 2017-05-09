@@ -1,6 +1,9 @@
 
 # Withings dumper
 
+[![CircleCI](https://circleci.com/gh/shirayu/withings-dumper.svg?style=svg)](https://circleci.com/gh/shirayu/withings-dumper)
+[![Apache License](http://img.shields.io/badge/license-APACHE2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
 ## Install
 
 ```sh
