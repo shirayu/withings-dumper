@@ -15,6 +15,7 @@ sudo pip3 install https://github.com/WarmongeR1/python-withings/archive/master.z
 
 ```sh
 cp config.template.json config.json
+chmod 600 config.json
 
 # Set your CONSUMER_KEY and CONSUMER_SECRET
 vi config.json
