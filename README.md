@@ -31,7 +31,7 @@ vi config.json
 
 ```sh
 # Get yesterday data
-python3 ./dump.py -c ./config.json --startdate=`date +s -d yesterday` --enddate=`date +s -d now`
+python3 ./dump.py -c ./config.json --startdate=`date +%s -d yesterday` --enddate=`date +%s -d now`
 ```
 
 ## License
